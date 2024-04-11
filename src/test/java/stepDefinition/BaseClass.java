@@ -4,8 +4,6 @@ import io.cucumber.java.*;
 import org.openqa.selenium.By;
 import utils.CommonClass;
 
-import static test.java.stepDefinition.PageInitializer.welcomePage;
-
 public class BaseClass extends CommonClass {
 
   @Before
