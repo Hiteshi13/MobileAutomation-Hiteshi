@@ -62,7 +62,7 @@ Android Studio Iguana | 2023.2.1 Patch 1
 6. Add required environment variables in .zshrc file (eg. JAVA_HOME, MAVEN_HOME and ANDROID_HOME)
 
 7. Cloning the Repository
-- Command: 
+```` Command: git clone "https://github.com/Hiteshi13/theScore-MobileAutomation-Hiteshi" ````
 
 ## **Running the Tests**
 
