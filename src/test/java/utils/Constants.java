@@ -1,4 +1,4 @@
-package test.java.utils;
+package utils;
 
 public class Constants {
   public static final String CONFIG_READER_PATH =

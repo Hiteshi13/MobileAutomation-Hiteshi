@@ -1,4 +1,4 @@
-package test.java.stepDefinition;
+package stepDefinition;
 
 import pages.*;
 

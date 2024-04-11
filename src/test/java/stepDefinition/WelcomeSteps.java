@@ -1,4 +1,4 @@
-package test.java.stepDefinition;
+package stepDefinition;
 
 import io.appium.java_client.MobileElement;
 import io.cucumber.java.en.And;

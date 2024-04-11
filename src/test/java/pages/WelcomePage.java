@@ -1,4 +1,4 @@
-package test.java.pages;
+package pages;
 
 import io.appium.java_client.MobileBy;
 import io.appium.java_client.MobileElement;
