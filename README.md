@@ -1,4 +1,4 @@
-## ----theScore Appium Framework----
+## ----Appium Framework----
 
 # Project Overview
 ```
